@@ -6,7 +6,6 @@ An interactive Power BI dashboard to analyze student performance across subjects
 | File | Description |
 |------|-------------|
 | `student_performance.csv` | Dataset |
-| `student_performance_assignment.docx` | Assignment brief |
 
 ## How to Run
 
