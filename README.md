@@ -7,7 +7,6 @@ An interactive Power BI dashboard to analyze student performance across subjects
 |------|-------------|
 | `student_performance.csv` | Dataset |
 | `student_performance_assignment.docx` | Assignment brief |
-| `pbix_starter_guide.docx` | How to build the .pbix file |
 
 ## How to Run
 
